@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TURNTABL\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TURNTABL\\.nuget\\packages"
+    ]
+  }
+}

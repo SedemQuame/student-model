@@ -1,0 +1,13 @@
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\obj\Debug\netcoreapp3.1\Student_Model.csprojAssemblyReference.cache
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\obj\Debug\netcoreapp3.1\Student_Model.AssemblyInfoInputs.cache
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\obj\Debug\netcoreapp3.1\Student_Model.AssemblyInfo.cs
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\obj\Debug\netcoreapp3.1\Student_Model.csproj.CoreCompileInputs.cache
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\bin\Debug\netcoreapp3.1\Student_Model.exe
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\bin\Debug\netcoreapp3.1\Student_Model.deps.json
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\bin\Debug\netcoreapp3.1\Student_Model.runtimeconfig.json
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\bin\Debug\netcoreapp3.1\Student_Model.runtimeconfig.dev.json
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\bin\Debug\netcoreapp3.1\Student_Model.dll
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\bin\Debug\netcoreapp3.1\Student_Model.pdb
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\obj\Debug\netcoreapp3.1\Student_Model.dll
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\obj\Debug\netcoreapp3.1\Student_Model.pdb
+C:\Users\TURNTABL\Documents\C#\Student_Model\Student_Model\obj\Debug\netcoreapp3.1\Student_Model.genruntimeconfig.cache

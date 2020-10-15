@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Student_Model": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    }
+  }
+}
